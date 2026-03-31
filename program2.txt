@@ -1,4 +1,3 @@
 "Contenido inicial de program2.txt - creado por P2" 
 
-
-Se agrego por Prog 02 / 30/03 22:26
+Se agrego por Develop / 30/03 22:41
