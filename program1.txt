@@ -1,1 +1,3 @@
 "Contenido inicial de program1.txt - creado por P1" 
+
+Se agrego por Prog 03 / 30/03 22:3.3
